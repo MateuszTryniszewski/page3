@@ -1,0 +1,53 @@
+@media only screen and (max-width: 1025px) {
+    body {
+    }
+    #main-menu{
+        display: none;
+    }
+    .mobile .hamburger{
+        color:#000;
+        font-size: 2em;
+        position: absolute;
+        right: 10px;
+        top: 10px; 
+    }
+    .mobile-menu{
+        display: none;
+    }
+    .mobile ul.mobile-menu{
+        list-style: none;
+        text-align: center;
+    }
+    .mobile ul.mobile-menu li{
+    
+     
+     border-bottom: 1px solid #eee;
+    }
+    .mobile ul.mobile-menu li a{
+        color:#202242;
+        text-decoration: none;
+        padding: 20px;
+        display: block;
+    }
+    #header{
+        display: block;
+
+    }
+    #about{
+        display: block;
+    }
+    #features{
+        display:none;
+    }
+    #clients{
+        display:none;
+    }
+    #pricing{
+        display:none;
+    }
+    #contact{
+        display:none;
+    }
+
+
+}
