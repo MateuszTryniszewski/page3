@@ -57,12 +57,12 @@
     #pricing .pricing-wrapper a{
         position: absolute;
         left:0;
-        top:80%;
+        top:70%;
         transform: translate(0, 0);
         text-align: center;
     }
-    #contact{
-        display:none;
+    #contact .contact-wrapper #secondary-nav{
+        display: none;
     }
 
 
