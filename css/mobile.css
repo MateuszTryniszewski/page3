@@ -40,7 +40,7 @@
         display: block;
     }
     #clients{
-        display:none;
+        display:block;
     }
     #pricing{
         display:none;
