@@ -19,6 +19,9 @@ h3{
 .mobile{
     display: none;
 }
+.hamburger{
+    display: none;
+}
 .container{
     margin: 0 auto;
     left:0;

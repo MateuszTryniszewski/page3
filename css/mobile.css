@@ -3,6 +3,7 @@
         display: none;
     }
     .hamburger{
+        display: block;
         color:#202242;
         font-size: 2em;
         position: absolute;
