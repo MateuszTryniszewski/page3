@@ -1,18 +1,19 @@
 @media only screen and (max-width: 1025px) {
-    body {
-    }
     #main-menu{
         display: none;
     }
-    .mobile .hamburger{
-        color:#000;
+    .hamburger{
+        color:#202242;
         font-size: 2em;
         position: absolute;
         right: 10px;
         top: 10px; 
     }
-    .mobile-menu{
+    .hide{
         display: none;
+    }
+    .show{
+        display: block;
     }
     .mobile ul.mobile-menu{
         list-style: none;
