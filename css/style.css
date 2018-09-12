@@ -256,12 +256,14 @@ h3{
 }
 #clients .company{
     display: flex;
+  
 }
 #clients .company .flex-item{
     margin: 5px;
 }
 #clients .clients-wrapper .opinion{
     display: flex;
+
 } 
 #clients .clients-wrapper .opinion .flex-item{
     background-color: #f5f3f3;
@@ -297,7 +299,7 @@ h3{
     margin: 0 auto;
     left:0;
     right: 0;
-    padding: 100px 0px;
+    padding: 120px 0px;
     display:flex;
     position: relative;
 }

@@ -40,10 +40,26 @@
         display: block;
     }
     #clients{
-        display:none;
+        display:block;
     }
-    #pricing{
-        display:none;
+    #clients .company .img{
+        width: 45%;
+        height: auto;
+    }
+    #clients .company,
+    #clients .clients-wrapper .opinion{
+        display: flex;
+        flex-wrap: wrap
+    }
+    #clients .clients-wrapper .opinion .flex-item{
+        margin-bottom: 70px;
+    }
+    #pricing .pricing-wrapper a{
+        position: absolute;
+        left:0;
+        top:80%;
+        transform: translate(0, 0);
+        text-align: center;
     }
     #contact{
         display:none;
