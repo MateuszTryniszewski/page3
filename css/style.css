@@ -35,7 +35,6 @@ h3{
 }
 #main-menu .wrapper{
     display: flex;
-    height:90px;
 }
 #main-menu .col{
     width: calc(100% / 4);
